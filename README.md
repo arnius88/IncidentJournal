@@ -34,4 +34,4 @@ I feel much more confident about my understanding of the different stages of the
 
 I enjoyed practicing with SIEM tools, in particular Chronicle and Splunk. Although it was the first time that I was introduced to such pieces of software, I managed to find my way around them after a few attempts. Admittedly, it might take some time to get used to their interfaces, because there are lots of options and they display a lot of information simultaneously. However, the experience clarified how monitoring systems with SIEMs fits into the usual day-to-day activities of a cybersecurity analyst.<br />
 
-[Click here for the Incident Handler's Journal]()
+[Click here for the Incident Handler's Journal](https://github.com/arnius88/IncidentJournal/blob/main/Incident%20Handler's%20Journal.pdf)
